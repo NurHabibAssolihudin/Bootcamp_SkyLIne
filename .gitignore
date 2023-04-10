@@ -3,6 +3,6 @@
 /env
 /.idea
 /.vscode
-*/__pycache__
+/__pycache__
 /PYthon/Online_Shop.zip
 /Python/pertemuan_3.py
